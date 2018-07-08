@@ -1,9 +1,5 @@
 require 'rails_helper'
 
-# These tests are auto-generated from Rails scaffolding, so they're not the best
-# tests you'll ever run into. Still, this is a useful stub of a test for our
-# application.
-
 RSpec.describe LocationsController, type: :controller do
   render_views
 
